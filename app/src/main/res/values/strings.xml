@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase App</string>
+    <string name="lbl_hello_firebase">Hello Firebase App!</string>
+    <string name="lbl_btn_add_user">ADD USER</string>
+</resources>
